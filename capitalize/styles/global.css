@@ -1,0 +1,51 @@
+:root {
+  --primary: #8CCEE6;
+  --secondary-light: #48BFEA;
+  --secondary: #205366;
+  --neutra: #3E5B66;
+  --neutra-light: #6DA0B3;
+  --background-color: whitesmoke;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+}
+
+.sidebar {
+  position: absolute;
+  width: 280px;
+  height: calc(100% - 71px);
+  background-color: var(--neutra-light);
+  color: white;
+}
+
+#content {
+  padding: 15px;
+  margin-left: 280px;
+  background-color: var(--background-color);
+  height: calc(100% - 71px);
+}
+
+header {
+  background-color: var(--secondary);
+  padding-inline: 25px;
+}
+
+.logo-header {
+  width: 250px;
+  height: 54px;
+  z-index: 9999;
+}
+
+.button-sidebar {
+  background-color: transparent;
+  color: var(--secondary);
+  font-weight: 600;
+
+  transition: all 0.5s;
+}
+
+.button-sidebar:hover {
+  color: var(--background-color);
+}
