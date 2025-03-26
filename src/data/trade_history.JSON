@@ -1,0 +1,3531 @@
+[
+
+  {
+    "id": "1685824924901",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "98526",
+      "dataPregao": "2023-01-01",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "EQTL3",
+      "quantidade": "500",
+      "preco": "24.26",
+      "corretagem": "10.36",
+      "outrosCustos": "3.68",
+      "valorTotal": "12132.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924901"
+    }
+  },
+  {
+    "id": "1685824924902",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "98526",
+      "dataPregao": "2023-01-01",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "EQTL3",
+      "quantidade": "800",
+      "preco": "24.14",
+      "corretagem": "15.53",
+      "outrosCustos": "16.06",
+      "valorTotal": "19309.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924902"
+    }
+  },
+  {
+    "id": "1685824924903",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "98526",
+      "dataPregao": "2023-01-01",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "UGPA3",
+      "quantidade": "800",
+      "preco": "18.97",
+      "corretagem": "15.53",
+      "outrosCustos": "5.05",
+      "valorTotal": "15175.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924903"
+    }
+  },
+  {
+    "id": "1685824924904",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "99704",
+      "dataPregao": "2023-01-02",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "EQTL3",
+      "quantidade": "500",
+      "preco": "24.52",
+      "corretagem": "6.67",
+      "outrosCustos": "3.22",
+      "valorTotal": "12261.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924904"
+    }
+  },
+  {
+    "id": "1685824924905",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "99704",
+      "dataPregao": "2023-01-02",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "CCRO3",
+      "quantidade": "1100",
+      "preco": "14.38",
+      "corretagem": "3.33",
+      "outrosCustos": "4.15",
+      "valorTotal": "15818.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924905"
+    }
+  },
+  {
+    "id": "1685824924906",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "100631",
+      "dataPregao": "2023-01-03",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "EQTL3",
+      "quantidade": "300",
+      "preco": "24.47",
+      "corretagem": "6.80",
+      "outrosCustos": "2.31",
+      "valorTotal": "7341.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924906"
+    }
+  },
+  {
+    "id": "1685824924907",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "102008",
+      "dataPregao": "2023-01-06",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "ENGI11",
+      "quantidade": "300",
+      "preco": "47.81",
+      "corretagem": "5.50",
+      "outrosCustos": "4.07",
+      "valorTotal": "14343.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924907"
+    }
+  },
+  {
+    "id": "1685824924908",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "102008",
+      "dataPregao": "2023-01-06",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "GGBR4",
+      "quantidade": "500",
+      "preco": "16.29",
+      "corretagem": "5.50",
+      "outrosCustos": "2.31",
+      "valorTotal": "8145.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924908"
+    }
+  },
+  {
+    "id": "1685824924909",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "102008",
+      "dataPregao": "2023-01-06",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "ITUB4",
+      "quantidade": "600",
+      "preco": "27.26",
+      "corretagem": "5.50",
+      "outrosCustos": "4.64",
+      "valorTotal": "16356.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924909"
+    }
+  },
+  {
+    "id": "1685824924911",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "102008",
+      "dataPregao": "2023-01-06",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "LREN3",
+      "quantidade": "500",
+      "preco": "42.53",
+      "corretagem": "5.50",
+      "outrosCustos": "6.03",
+      "valorTotal": "21265.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924911"
+    }
+  },
+  {
+    "id": "1685824924912",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "102008",
+      "dataPregao": "2023-01-06",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BPAC11",
+      "quantidade": "100",
+      "preco": "92.22",
+      "corretagem": "5.50",
+      "outrosCustos": "2.61",
+      "valorTotal": "9222.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924912"
+    }
+  },
+  {
+    "id": "1685824924913",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "102008",
+      "dataPregao": "2023-01-06",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BRML3",
+      "quantidade": "1400",
+      "preco": "11.54",
+      "corretagem": "5.50",
+      "outrosCustos": "15.52",
+      "valorTotal": "16156.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924913"
+    }
+  },
+  {
+    "id": "1685824924914",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "102008",
+      "dataPregao": "2023-01-06",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "CSAN3",
+      "quantidade": "200",
+      "preco": "82.57",
+      "corretagem": "5.50",
+      "outrosCustos": "4.68",
+      "valorTotal": "16514.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924914"
+    }
+  },
+  {
+    "id": "1685824924915",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "102008",
+      "dataPregao": "2023-01-06",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "RENT3",
+      "quantidade": "200",
+      "preco": "46.14",
+      "corretagem": "5.50",
+      "outrosCustos": "2.62",
+      "valorTotal": "9228.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924915"
+    }
+  },
+  {
+    "id": "1685824924916",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "103716",
+      "dataPregao": "2023-01-07",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "CSAN3",
+      "quantidade": "200",
+      "preco": "83.47",
+      "corretagem": "3.93",
+      "outrosCustos": "4.35",
+      "valorTotal": "16694.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924916"
+    }
+  },
+  {
+    "id": "1685824924917",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "103716",
+      "dataPregao": "2023-01-07",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "CYRE3",
+      "quantidade": "600",
+      "preco": "27.37",
+      "corretagem": "7.87",
+      "outrosCustos": "4.28",
+      "valorTotal": "16424.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924917"
+    }
+  },
+  {
+    "id": "1685824924918",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "103716",
+      "dataPregao": "2023-01-07",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "ITUB4",
+      "quantidade": "800",
+      "preco": "27.83",
+      "corretagem": "7.87",
+      "outrosCustos": "5.80",
+      "valorTotal": "22264.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924918"
+    }
+  },
+  {
+    "id": "1685824924919",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "103716",
+      "dataPregao": "2023-01-07",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "RENT3",
+      "quantidade": "200",
+      "preco": "47.02",
+      "corretagem": "3.93",
+      "outrosCustos": "2.45",
+      "valorTotal": "9404.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924919"
+    }
+  },
+  {
+    "id": "1685824924920",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "103716",
+      "dataPregao": "2023-01-07",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BBDC4",
+      "quantidade": "700",
+      "preco": "23.39",
+      "corretagem": "3.93",
+      "outrosCustos": "14.71",
+      "valorTotal": "16373.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924920"
+    }
+  },
+  {
+    "id": "1685824924921",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "103716",
+      "dataPregao": "2023-01-07",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "ENGI11",
+      "quantidade": "300",
+      "preco": "47.35",
+      "corretagem": "7.87",
+      "outrosCustos": "3.70",
+      "valorTotal": "14206.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924921"
+    }
+  },
+  {
+    "id": "1685824924922",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "103716",
+      "dataPregao": "2023-01-07",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "GGBR4",
+      "quantidade": "500",
+      "preco": "16.05",
+      "corretagem": "3.93",
+      "outrosCustos": "2.09",
+      "valorTotal": "8025.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924922"
+    }
+  },
+  {
+    "id": "1685824924923",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "104471",
+      "dataPregao": "2023-01-08",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BBDC4",
+      "quantidade": "700",
+      "preco": "23.04",
+      "corretagem": "8.07",
+      "outrosCustos": "4.81",
+      "valorTotal": "16130.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924923"
+    }
+  },
+  {
+    "id": "1685824924924",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "104471",
+      "dataPregao": "2023-01-08",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BRML3",
+      "quantidade": "1400",
+      "preco": "11.34",
+      "corretagem": "8.07",
+      "outrosCustos": "4.74",
+      "valorTotal": "15874.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924924"
+    }
+  },
+  {
+    "id": "1685824924925",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "104471",
+      "dataPregao": "2023-01-08",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "ITUB4",
+      "quantidade": "800",
+      "preco": "27.27",
+      "corretagem": "4.04",
+      "outrosCustos": "6.51",
+      "valorTotal": "21816.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924925"
+    }
+  },
+  {
+    "id": "1685824924926",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "104471",
+      "dataPregao": "2023-01-08",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "RENT3",
+      "quantidade": "300",
+      "preco": "46.09",
+      "corretagem": "4.04",
+      "outrosCustos": "4.13",
+      "valorTotal": "13827.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924926"
+    }
+  },
+  {
+    "id": "1685824924927",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "104471",
+      "dataPregao": "2023-01-08",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "YDUQ3",
+      "quantidade": "200",
+      "preco": "35.10",
+      "corretagem": "4.04",
+      "outrosCustos": "2.10",
+      "valorTotal": "7020.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924927"
+    }
+  },
+  {
+    "id": "1685824924928",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "104471",
+      "dataPregao": "2023-01-08",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BBAS3",
+      "quantidade": "300",
+      "preco": "35.31",
+      "corretagem": "4.04",
+      "outrosCustos": "3.16",
+      "valorTotal": "10593.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924928"
+    }
+  },
+  {
+    "id": "1685824924929",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "104471",
+      "dataPregao": "2023-01-08",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BPAC11",
+      "quantidade": "200",
+      "preco": "89.33",
+      "corretagem": "4.04",
+      "outrosCustos": "17.36",
+      "valorTotal": "17866.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924929"
+    }
+  },
+  {
+    "id": "1685824924930",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "104471",
+      "dataPregao": "2023-01-08",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "RENT3",
+      "quantidade": "300",
+      "preco": "47.09",
+      "corretagem": "4.04",
+      "outrosCustos": "4.22",
+      "valorTotal": "14127.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924930"
+    }
+  },
+  {
+    "id": "1685824924931",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "105629",
+      "dataPregao": "2023-01-09",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "ITUB4",
+      "quantidade": "900",
+      "preco": "26.53",
+      "corretagem": "11.83",
+      "outrosCustos": "5.71",
+      "valorTotal": "23878.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924931"
+    }
+  },
+  {
+    "id": "1685824924932",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "106785",
+      "dataPregao": "2023-01-10",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "LREN3",
+      "quantidade": "400",
+      "preco": "40.63",
+      "corretagem": "5.70",
+      "outrosCustos": "4.57",
+      "valorTotal": "16252.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924932"
+    }
+  },
+  {
+    "id": "1685824924933",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "106785",
+      "dataPregao": "2023-01-10",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "ITUB4",
+      "quantidade": "800",
+      "preco": "26.80",
+      "corretagem": "5.70",
+      "outrosCustos": "6.03",
+      "valorTotal": "21440.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924933"
+    }
+  },
+  {
+    "id": "1685824924934",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "106785",
+      "dataPregao": "2023-01-10",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "LREN3",
+      "quantidade": "400",
+      "preco": "41.27",
+      "corretagem": "5.70",
+      "outrosCustos": "4.64",
+      "valorTotal": "16508.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924934"
+    }
+  },
+  {
+    "id": "1685824924935",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "106785",
+      "dataPregao": "2023-01-10",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "YDUQ3",
+      "quantidade": "200",
+      "preco": "33.28",
+      "corretagem": "5.70",
+      "outrosCustos": "1.87",
+      "valorTotal": "6656.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924935"
+    }
+  },
+  {
+    "id": "1685824924936",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "107804",
+      "dataPregao": "2023-01-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "CCRO3",
+      "quantidade": "800",
+      "preco": "14.81",
+      "corretagem": "2.98",
+      "outrosCustos": "3.25",
+      "valorTotal": "11848.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924936"
+    }
+  },
+  {
+    "id": "1685824924937",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "107804",
+      "dataPregao": "2023-01-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "ENGI11",
+      "quantidade": "200",
+      "preco": "48.41",
+      "corretagem": "2.98",
+      "outrosCustos": "2.66",
+      "valorTotal": "9682.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924937"
+    }
+  },
+  {
+    "id": "1685824924938",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "107804",
+      "dataPregao": "2023-01-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "HYPE3",
+      "quantidade": "400",
+      "preco": "36.11",
+      "corretagem": "2.98",
+      "outrosCustos": "3.97",
+      "valorTotal": "14444.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924938"
+    }
+  },
+  {
+    "id": "1685824924939",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "107804",
+      "dataPregao": "2023-01-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "LREN3",
+      "quantidade": "500",
+      "preco": "41.20",
+      "corretagem": "8.93",
+      "outrosCustos": "5.66",
+      "valorTotal": "20601.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924939"
+    }
+  },
+  {
+    "id": "1685824924940",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "107804",
+      "dataPregao": "2023-01-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "MRVE3",
+      "quantidade": "500",
+      "preco": "19.78",
+      "corretagem": "2.98",
+      "outrosCustos": "2.72",
+      "valorTotal": "9890.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924940"
+    }
+  },
+  {
+    "id": "1685824924941",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "107804",
+      "dataPregao": "2023-01-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "ENGI11",
+      "quantidade": "200",
+      "preco": "49.30",
+      "corretagem": "2.98",
+      "outrosCustos": "2.71",
+      "valorTotal": "9860.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924941"
+    }
+  },
+  {
+    "id": "1685824924942",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "107804",
+      "dataPregao": "2023-01-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "HYPE3",
+      "quantidade": "400",
+      "preco": "36.54",
+      "corretagem": "2.98",
+      "outrosCustos": "4.01",
+      "valorTotal": "14616.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924942"
+    }
+  },
+  {
+    "id": "1685824924943",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "107804",
+      "dataPregao": "2023-01-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "USIM5",
+      "quantidade": "2100",
+      "preco": "8.05",
+      "corretagem": "11.91",
+      "outrosCustos": "70.04",
+      "valorTotal": "16898.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924943"
+    }
+  },
+  {
+    "id": "1685824924944",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "110140",
+      "dataPregao": "2023-01-15",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BBAS3",
+      "quantidade": "300",
+      "preco": "35.50",
+      "corretagem": "4.68",
+      "outrosCustos": "3.24",
+      "valorTotal": "10650.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924944"
+    }
+  },
+  {
+    "id": "1685824924945",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "110140",
+      "dataPregao": "2023-01-15",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BBSE3",
+      "quantidade": "700",
+      "preco": "28.20",
+      "corretagem": "4.68",
+      "outrosCustos": "6.00",
+      "valorTotal": "19740.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924945"
+    }
+  },
+  {
+    "id": "1685824924946",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "110140",
+      "dataPregao": "2023-01-15",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "CPFE3",
+      "quantidade": "600",
+      "preco": "31.14",
+      "corretagem": "4.68",
+      "outrosCustos": "5.68",
+      "valorTotal": "18684.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924946"
+    }
+  },
+  {
+    "id": "1685824924947",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "110140",
+      "dataPregao": "2023-01-15",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "SBSP3",
+      "quantidade": "400",
+      "preco": "59.33",
+      "corretagem": "9.36",
+      "outrosCustos": "7.21",
+      "valorTotal": "23732.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924947"
+    }
+  },
+  {
+    "id": "1685824924948",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "110140",
+      "dataPregao": "2023-01-15",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BBDC4",
+      "quantidade": "600",
+      "preco": "24.12",
+      "corretagem": "4.68",
+      "outrosCustos": "15.25",
+      "valorTotal": "14472.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924948"
+    }
+  },
+  {
+    "id": "1685824924949",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "110140",
+      "dataPregao": "2023-01-15",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "MRVE3",
+      "quantidade": "500",
+      "preco": "20.25",
+      "corretagem": "9.36",
+      "outrosCustos": "3.08",
+      "valorTotal": "10126.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924949"
+    }
+  },
+  {
+    "id": "1685824924950",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "110140",
+      "dataPregao": "2023-01-15",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "NTCO3",
+      "quantidade": "300",
+      "preco": "46.52",
+      "corretagem": "4.68",
+      "outrosCustos": "15.17",
+      "valorTotal": "13956.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924950"
+    }
+  },
+  {
+    "id": "1685824924951",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "111303",
+      "dataPregao": "2023-01-16",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "CPFE3",
+      "quantidade": "600",
+      "preco": "31.49",
+      "corretagem": "6.56",
+      "outrosCustos": "5.93",
+      "valorTotal": "18894.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924951"
+    }
+  },
+  {
+    "id": "1685824924952",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "111303",
+      "dataPregao": "2023-01-16",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "CCRO3",
+      "quantidade": "800",
+      "preco": "14.87",
+      "corretagem": "9.84",
+      "outrosCustos": "3.74",
+      "valorTotal": "11897.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924952"
+    }
+  },
+  {
+    "id": "1685824924953",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "111303",
+      "dataPregao": "2023-01-16",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "NTCO3",
+      "quantidade": "300",
+      "preco": "48.29",
+      "corretagem": "3.28",
+      "outrosCustos": "4.55",
+      "valorTotal": "14487.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924953"
+    }
+  },
+  {
+    "id": "1685824924954",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "111303",
+      "dataPregao": "2023-01-16",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "SBSP3",
+      "quantidade": "400",
+      "preco": "59.31",
+      "corretagem": "9.84",
+      "outrosCustos": "7.45",
+      "valorTotal": "23723.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924954"
+    }
+  },
+  {
+    "id": "1685824924955",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "112646",
+      "dataPregao": "2023-01-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BBDC4",
+      "quantidade": "600",
+      "preco": "23.39",
+      "corretagem": "4.68",
+      "outrosCustos": "4.41",
+      "valorTotal": "14034.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924955"
+    }
+  },
+  {
+    "id": "1685824924956",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "112646",
+      "dataPregao": "2023-01-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "NTCO3",
+      "quantidade": "300",
+      "preco": "47.01",
+      "corretagem": "4.68",
+      "outrosCustos": "4.43",
+      "valorTotal": "14103.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924956"
+    }
+  },
+  {
+    "id": "1685824924957",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "112646",
+      "dataPregao": "2023-01-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "TIMP3",
+      "quantidade": "1400",
+      "preco": "14.55",
+      "corretagem": "4.68",
+      "outrosCustos": "6.40",
+      "valorTotal": "20370.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924957"
+    }
+  },
+  {
+    "id": "1685824924958",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "112646",
+      "dataPregao": "2023-01-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "UGPA3",
+      "quantidade": "400",
+      "preco": "19.39",
+      "corretagem": "4.68",
+      "outrosCustos": "2.44",
+      "valorTotal": "7756.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924958"
+    }
+  },
+  {
+    "id": "1685824924959",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "112646",
+      "dataPregao": "2023-01-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BBSE3",
+      "quantidade": "700",
+      "preco": "27.88",
+      "corretagem": "9.37",
+      "outrosCustos": "6.13",
+      "valorTotal": "19515.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924959"
+    }
+  },
+  {
+    "id": "1685824924960",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "112646",
+      "dataPregao": "2023-01-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BRAP4",
+      "quantidade": "400",
+      "preco": "42.90",
+      "corretagem": "4.68",
+      "outrosCustos": "16.61",
+      "valorTotal": "17160.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924960"
+    }
+  },
+  {
+    "id": "1685824924961",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "112646",
+      "dataPregao": "2023-01-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "CPFE3",
+      "quantidade": "600",
+      "preco": "31.52",
+      "corretagem": "4.68",
+      "outrosCustos": "5.94",
+      "valorTotal": "18912.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924961"
+    }
+  },
+  {
+    "id": "1685824924962",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "112646",
+      "dataPregao": "2023-01-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "EGIE3",
+      "quantidade": "500",
+      "preco": "46.30",
+      "corretagem": "4.68",
+      "outrosCustos": "18.04",
+      "valorTotal": "23150.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924962"
+    }
+  },
+  {
+    "id": "1685824924963",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "113949",
+      "dataPregao": "2023-01-20",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "EGIE3",
+      "quantidade": "500",
+      "preco": "46.53",
+      "corretagem": "9.68",
+      "outrosCustos": "7.31",
+      "valorTotal": "23264.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924963"
+    }
+  },
+  {
+    "id": "1685824924964",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "113949",
+      "dataPregao": "2023-01-20",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "TIMP3",
+      "quantidade": "1400",
+      "preco": "15.60",
+      "corretagem": "12.91",
+      "outrosCustos": "6.86",
+      "valorTotal": "21842.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924964"
+    }
+  },
+  {
+    "id": "1685824924965",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "115569",
+      "dataPregao": "2023-01-21",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BRAP4",
+      "quantidade": "400",
+      "preco": "42.58",
+      "corretagem": "6.18",
+      "outrosCustos": "4.73",
+      "valorTotal": "17030.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924965"
+    }
+  },
+  {
+    "id": "1685824924966",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "115569",
+      "dataPregao": "2023-01-21",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "CPFE3",
+      "quantidade": "400",
+      "preco": "30.50",
+      "corretagem": "9.26",
+      "outrosCustos": "3.39",
+      "valorTotal": "12199.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924966"
+    }
+  },
+  {
+    "id": "1685824924967",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "115569",
+      "dataPregao": "2023-01-21",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "MRVE3",
+      "quantidade": "1200",
+      "preco": "18.82",
+      "corretagem": "12.35",
+      "outrosCustos": "6.27",
+      "valorTotal": "22587.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924967"
+    }
+  },
+  {
+    "id": "1685824924968",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "115569",
+      "dataPregao": "2023-01-21",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "NTCO3",
+      "quantidade": "200",
+      "preco": "46.46",
+      "corretagem": "3.09",
+      "outrosCustos": "2.58",
+      "valorTotal": "9292.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924968"
+    }
+  },
+  {
+    "id": "1685824924969",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "115569",
+      "dataPregao": "2023-01-21",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "UGPA3",
+      "quantidade": "400",
+      "preco": "18.60",
+      "corretagem": "3.09",
+      "outrosCustos": "2.06",
+      "valorTotal": "7440.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924969"
+    }
+  },
+  {
+    "id": "1685824924970",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "116390",
+      "dataPregao": "2023-01-22",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "GOAU4",
+      "quantidade": "2400",
+      "preco": "8.50",
+      "corretagem": "9.37",
+      "outrosCustos": "16.95",
+      "valorTotal": "20391.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924970"
+    }
+  },
+  {
+    "id": "1685824924971",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "117629",
+      "dataPregao": "2023-01-23",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "GOAU4",
+      "quantidade": "2400",
+      "preco": "8.32",
+      "corretagem": "6.74",
+      "outrosCustos": "6.25",
+      "valorTotal": "19956.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924971"
+    }
+  },
+  {
+    "id": "1685824924972",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "120134",
+      "dataPregao": "2023-01-27",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "NTCO3",
+      "quantidade": "200",
+      "preco": "45.71",
+      "corretagem": "4.43",
+      "outrosCustos": "47.88",
+      "valorTotal": "9142.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924972"
+    }
+  },
+  {
+    "id": "1685824924973",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "120134",
+      "dataPregao": "2023-01-27",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "CPFE3",
+      "quantidade": "400",
+      "preco": "31.00",
+      "corretagem": "4.43",
+      "outrosCustos": "3.89",
+      "valorTotal": "12400.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924973"
+    }
+  },
+  {
+    "id": "1685824924974",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "120134",
+      "dataPregao": "2023-01-27",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "CSNA3",
+      "quantidade": "1500",
+      "preco": "13.85",
+      "corretagem": "8.85",
+      "outrosCustos": "21.85",
+      "valorTotal": "20774.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924974"
+    }
+  },
+  {
+    "id": "1685824924975",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "122664",
+      "dataPregao": "2023-01-29",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "CSNA3",
+      "quantidade": "1500",
+      "preco": "13.83",
+      "corretagem": "7.87",
+      "outrosCustos": "6.50",
+      "valorTotal": "20742.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924975"
+    }
+  },
+  {
+    "id": "1685824924976",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "124023",
+      "dataPregao": "2023-01-30",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "RADL3",
+      "quantidade": "200",
+      "preco": "111.88",
+      "corretagem": "0.83",
+      "outrosCustos": "6.15",
+      "valorTotal": "22376.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924976"
+    }
+  },
+  {
+    "id": "1685824924977",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "125380",
+      "dataPregao": "2023-01-31",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "GOAU4",
+      "quantidade": "1600",
+      "preco": "8.25",
+      "corretagem": "10.45",
+      "outrosCustos": "3.56",
+      "valorTotal": "13202.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924977"
+    }
+  },
+  {
+    "id": "1685824924978",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "125380",
+      "dataPregao": "2023-01-31",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "MRVE3",
+      "quantidade": "1200",
+      "preco": "18.28",
+      "corretagem": "10.45",
+      "outrosCustos": "5.91",
+      "valorTotal": "21935.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924978"
+    }
+  },
+  {
+    "id": "1685824924979",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "125380",
+      "dataPregao": "2023-01-31",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "RADL3",
+      "quantidade": "200",
+      "preco": "113.63",
+      "corretagem": "5.23",
+      "outrosCustos": "6.13",
+      "valorTotal": "22726.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924979"
+    }
+  },
+  {
+    "id": "1685824924980",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "125380",
+      "dataPregao": "2023-01-31",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "SBSP3",
+      "quantidade": "400",
+      "preco": "56.41",
+      "corretagem": "15.68",
+      "outrosCustos": "6.08",
+      "valorTotal": "22563.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924980"
+    }
+  },
+  {
+    "id": "1685824924981",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "126670",
+      "dataPregao": "2023-02-03",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "MULT3",
+      "quantidade": "700",
+      "preco": "21.64",
+      "corretagem": "3.46",
+      "outrosCustos": "4.32",
+      "valorTotal": "15148.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924981"
+    }
+  },
+  {
+    "id": "1685824924982",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "126670",
+      "dataPregao": "2023-02-03",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "PETR4",
+      "quantidade": "600",
+      "preco": "22.30",
+      "corretagem": "3.46",
+      "outrosCustos": "3.82",
+      "valorTotal": "13380.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924982"
+    }
+  },
+  {
+    "id": "1685824924983",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "126670",
+      "dataPregao": "2023-02-03",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "PETR4",
+      "quantidade": "1200",
+      "preco": "22.47",
+      "corretagem": "6.93",
+      "outrosCustos": "25.87",
+      "valorTotal": "26958.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924983"
+    }
+  },
+  {
+    "id": "1685824924984",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "127786",
+      "dataPregao": "2023-02-04",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "MULT3",
+      "quantidade": "700",
+      "preco": "21.80",
+      "corretagem": "8.13",
+      "outrosCustos": "4.78",
+      "valorTotal": "15257.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924984"
+    }
+  },
+  {
+    "id": "1685824924985",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "129792",
+      "dataPregao": "2023-02-06",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "UGPA3",
+      "quantidade": "1000",
+      "preco": "19.60",
+      "corretagem": "7.96",
+      "outrosCustos": "6.15",
+      "valorTotal": "19604.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924985"
+    }
+  },
+  {
+    "id": "1685824924986",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "132644",
+      "dataPregao": "2023-02-11",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "RADL3",
+      "quantidade": "200",
+      "preco": "107.83",
+      "corretagem": "2.52",
+      "outrosCustos": "6.76",
+      "valorTotal": "21566.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924986"
+    }
+  },
+  {
+    "id": "1685824924987",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "132644",
+      "dataPregao": "2023-02-11",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "CMIG4",
+      "quantidade": "1900",
+      "preco": "10.96",
+      "corretagem": "11.35",
+      "outrosCustos": "17.62",
+      "valorTotal": "20824.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924987"
+    }
+  },
+  {
+    "id": "1685824924988",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "134534",
+      "dataPregao": "2023-02-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "CMIG4",
+      "quantidade": "1900",
+      "preco": "10.69",
+      "corretagem": "4.10",
+      "outrosCustos": "6.37",
+      "valorTotal": "20311.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924988"
+    }
+  },
+  {
+    "id": "1685824924989",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "134534",
+      "dataPregao": "2023-02-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "ECOR3",
+      "quantidade": "1200",
+      "preco": "12.67",
+      "corretagem": "8.20",
+      "outrosCustos": "4.76",
+      "valorTotal": "15198.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924989"
+    }
+  },
+  {
+    "id": "1685824924990",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "134534",
+      "dataPregao": "2023-02-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "UGPA3",
+      "quantidade": "1000",
+      "preco": "19.30",
+      "corretagem": "8.20",
+      "outrosCustos": "19.14",
+      "valorTotal": "19297.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924990"
+    }
+  },
+  {
+    "id": "1685824924991",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "134534",
+      "dataPregao": "2023-02-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "VALE3",
+      "quantidade": "300",
+      "preco": "60.81",
+      "corretagem": "4.10",
+      "outrosCustos": "5.72",
+      "valorTotal": "18243.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924991"
+    }
+  },
+  {
+    "id": "1685824924992",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "134534",
+      "dataPregao": "2023-02-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "YDUQ3",
+      "quantidade": "500",
+      "preco": "28.29",
+      "corretagem": "8.20",
+      "outrosCustos": "4.43",
+      "valorTotal": "14144.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924992"
+    }
+  },
+  {
+    "id": "1685824924993",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "134534",
+      "dataPregao": "2023-02-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "IGTA3",
+      "quantidade": "600",
+      "preco": "33.45",
+      "corretagem": "8.20",
+      "outrosCustos": "6.29",
+      "valorTotal": "20067.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924993"
+    }
+  },
+  {
+    "id": "1685824924994",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "134534",
+      "dataPregao": "2023-02-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "MGLU3",
+      "quantidade": "200",
+      "preco": "91.59",
+      "corretagem": "4.10",
+      "outrosCustos": "5.74",
+      "valorTotal": "18318.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924994"
+    }
+  },
+  {
+    "id": "1685824924995",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "134534",
+      "dataPregao": "2023-02-13",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "MULT3",
+      "quantidade": "800",
+      "preco": "21.68",
+      "corretagem": "8.20",
+      "outrosCustos": "5.44",
+      "valorTotal": "17346.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924995"
+    }
+  },
+  {
+    "id": "1685824924996",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "135391",
+      "dataPregao": "2023-02-14",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "GNDI3",
+      "quantidade": "300",
+      "preco": "73.43",
+      "corretagem": "7.65",
+      "outrosCustos": "6.02",
+      "valorTotal": "22029.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924996"
+    }
+  },
+  {
+    "id": "1685824924997",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "135391",
+      "dataPregao": "2023-02-14",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "MULT3",
+      "quantidade": "800",
+      "preco": "21.68",
+      "corretagem": "7.65",
+      "outrosCustos": "15.52",
+      "valorTotal": "17341.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924997"
+    }
+  },
+  {
+    "id": "1685824924998",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "135391",
+      "dataPregao": "2023-02-14",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "ECOR3",
+      "quantidade": "1200",
+      "preco": "13.00",
+      "corretagem": "3.83",
+      "outrosCustos": "4.27",
+      "valorTotal": "15600.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924998"
+    }
+  },
+  {
+    "id": "1685824924999",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "135391",
+      "dataPregao": "2023-02-14",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "UGPA3",
+      "quantidade": "800",
+      "preco": "20.18",
+      "corretagem": "7.65",
+      "outrosCustos": "4.42",
+      "valorTotal": "16146.00",
+      "acao": "",
+      "uniqueEmpId": "1685824924999"
+    }
+  },
+  {
+    "id": "1685824925000",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "136339",
+      "dataPregao": "2023-02-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BRML3",
+      "quantidade": "1200",
+      "preco": "9.31",
+      "corretagem": "4.30",
+      "outrosCustos": "3.31",
+      "valorTotal": "11172.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925000"
+    }
+  },
+  {
+    "id": "1685824925001",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "136339",
+      "dataPregao": "2023-02-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "ECOR3",
+      "quantidade": "1300",
+      "preco": "12.85",
+      "corretagem": "4.30",
+      "outrosCustos": "4.95",
+      "valorTotal": "16705.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925001"
+    }
+  },
+  {
+    "id": "1685824925002",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "136339",
+      "dataPregao": "2023-02-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "GOAU4",
+      "quantidade": "1600",
+      "preco": "8.87",
+      "corretagem": "8.60",
+      "outrosCustos": "8.39",
+      "valorTotal": "14189.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925002"
+    }
+  },
+  {
+    "id": "1685824925003",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "136339",
+      "dataPregao": "2023-02-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "SBSP3",
+      "quantidade": "400",
+      "preco": "48.83",
+      "corretagem": "4.30",
+      "outrosCustos": "5.79",
+      "valorTotal": "19532.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925003"
+    }
+  },
+  {
+    "id": "1685824925004",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "136339",
+      "dataPregao": "2023-02-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "UGPA3",
+      "quantidade": "800",
+      "preco": "19.71",
+      "corretagem": "4.30",
+      "outrosCustos": "4.67",
+      "valorTotal": "15768.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925004"
+    }
+  },
+  {
+    "id": "1685824925005",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "136339",
+      "dataPregao": "2023-02-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BRML3",
+      "quantidade": "1200",
+      "preco": "9.32",
+      "corretagem": "4.30",
+      "outrosCustos": "3.32",
+      "valorTotal": "11184.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925005"
+    }
+  },
+  {
+    "id": "1685824925006",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "136339",
+      "dataPregao": "2023-02-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "GNDI3",
+      "quantidade": "300",
+      "preco": "74.73",
+      "corretagem": "4.30",
+      "outrosCustos": "6.65",
+      "valorTotal": "22419.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925006"
+    }
+  },
+  {
+    "id": "1685824925007",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "136339",
+      "dataPregao": "2023-02-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "ITUB4",
+      "quantidade": "1000",
+      "preco": "24.08",
+      "corretagem": "8.60",
+      "outrosCustos": "22.14",
+      "valorTotal": "24076.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925007"
+    }
+  },
+  {
+    "id": "1685824925008",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "136339",
+      "dataPregao": "2023-02-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "RADL3",
+      "quantidade": "200",
+      "preco": "109.88",
+      "corretagem": "4.30",
+      "outrosCustos": "6.51",
+      "valorTotal": "21976.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925008"
+    }
+  },
+  {
+    "id": "1685824925009",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "137417",
+      "dataPregao": "2023-02-18",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BRML3",
+      "quantidade": "1100",
+      "preco": "9.55",
+      "corretagem": "4.34",
+      "outrosCustos": "2.89",
+      "valorTotal": "10505.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925009"
+    }
+  },
+  {
+    "id": "1685824925012",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "137417",
+      "dataPregao": "2023-02-18",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "ITUB4",
+      "quantidade": "1000",
+      "preco": "23.85",
+      "corretagem": "8.69",
+      "outrosCustos": "6.55",
+      "valorTotal": "23850.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925012"
+    }
+  },
+  {
+    "id": "1685824925013",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "137417",
+      "dataPregao": "2023-02-18",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "ECOR3",
+      "quantidade": "1300",
+      "preco": "13.22",
+      "corretagem": "8.69",
+      "outrosCustos": "4.72",
+      "valorTotal": "17182.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925013"
+    }
+  },
+  {
+    "id": "1685824925014",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "137417",
+      "dataPregao": "2023-02-18",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "EMBR3",
+      "quantidade": "1200",
+      "preco": "7.77",
+      "corretagem": "4.34",
+      "outrosCustos": "2.56",
+      "valorTotal": "9324.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925014"
+    }
+  },
+  {
+    "id": "1685824925015",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "137417",
+      "dataPregao": "2023-02-18",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "HGTX3",
+      "quantidade": "500",
+      "preco": "19.62",
+      "corretagem": "4.34",
+      "outrosCustos": "2.70",
+      "valorTotal": "9810.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925015"
+    }
+  },
+  {
+    "id": "1685824925016",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "137417",
+      "dataPregao": "2023-02-18",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "ITUB4",
+      "quantidade": "800",
+      "preco": "24.17",
+      "corretagem": "4.34",
+      "outrosCustos": "5.31",
+      "valorTotal": "19336.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925016"
+    }
+  },
+  {
+    "id": "1685824925017",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "138412",
+      "dataPregao": "2023-02-19",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "ECOR3",
+      "quantidade": "1400",
+      "preco": "13.47",
+      "corretagem": "7.65",
+      "outrosCustos": "5.90",
+      "valorTotal": "18862.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925017"
+    }
+  },
+  {
+    "id": "1685824925018",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "138412",
+      "dataPregao": "2023-02-19",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "EMBR3",
+      "quantidade": "1200",
+      "preco": "7.57",
+      "corretagem": "3.82",
+      "outrosCustos": "14.97",
+      "valorTotal": "9084.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925018"
+    }
+  },
+  {
+    "id": "1685824925019",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "138412",
+      "dataPregao": "2023-02-19",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "ITUB4",
+      "quantidade": "800",
+      "preco": "24.13",
+      "corretagem": "3.82",
+      "outrosCustos": "16.17",
+      "valorTotal": "19304.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925019"
+    }
+  },
+  {
+    "id": "1685824925020",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "138412",
+      "dataPregao": "2023-02-19",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BRML3",
+      "quantidade": "1100",
+      "preco": "9.65",
+      "corretagem": "3.82",
+      "outrosCustos": "3.32",
+      "valorTotal": "10615.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925020"
+    }
+  },
+  {
+    "id": "1685824925021",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "139628",
+      "dataPregao": "2023-02-20",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BRML3",
+      "quantidade": "1100",
+      "preco": "9.51",
+      "corretagem": "3.05",
+      "outrosCustos": "2.99",
+      "valorTotal": "10461.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925021"
+    }
+  },
+  {
+    "id": "1685824925022",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "139628",
+      "dataPregao": "2023-02-20",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "CYRE3",
+      "quantidade": "400",
+      "preco": "24.24",
+      "corretagem": "6.09",
+      "outrosCustos": "2.78",
+      "valorTotal": "9697.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925022"
+    }
+  },
+  {
+    "id": "1685824925023",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "139628",
+      "dataPregao": "2023-02-20",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BBDC4",
+      "quantidade": "700",
+      "preco": "22.13",
+      "corretagem": "6.09",
+      "outrosCustos": "4.43",
+      "valorTotal": "15492.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925023"
+    }
+  },
+  {
+    "id": "1685824925024",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "139628",
+      "dataPregao": "2023-02-20",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "ECOR3",
+      "quantidade": "1400",
+      "preco": "13.48",
+      "corretagem": "3.05",
+      "outrosCustos": "5.40",
+      "valorTotal": "18872.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925024"
+    }
+  },
+  {
+    "id": "1685824925025",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "139628",
+      "dataPregao": "2023-02-20",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "EMBR3",
+      "quantidade": "1100",
+      "preco": "7.69",
+      "corretagem": "3.05",
+      "outrosCustos": "2.42",
+      "valorTotal": "8459.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925025"
+    }
+  },
+  {
+    "id": "1685824925026",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "139628",
+      "dataPregao": "2023-02-20",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "ITUB4",
+      "quantidade": "800",
+      "preco": "24.64",
+      "corretagem": "6.09",
+      "outrosCustos": "16.69",
+      "valorTotal": "19710.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925026"
+    }
+  },
+  {
+    "id": "1685824925030",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "140794",
+      "dataPregao": "2023-02-21",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BBDC4",
+      "quantidade": "700",
+      "preco": "22.11",
+      "corretagem": "7.58",
+      "outrosCustos": "15.29",
+      "valorTotal": "15477.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925030"
+    }
+  },
+  {
+    "id": "1685824925031",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "140794",
+      "dataPregao": "2023-02-21",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "IGTA3",
+      "quantidade": "600",
+      "preco": "33.37",
+      "corretagem": "5.68",
+      "outrosCustos": "20.26",
+      "valorTotal": "20019.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925031"
+    }
+  },
+  {
+    "id": "1685824925032",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "140794",
+      "dataPregao": "2023-02-21",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "MGLU3",
+      "quantidade": "200",
+      "preco": "87.96",
+      "corretagem": "3.79",
+      "outrosCustos": "19.62",
+      "valorTotal": "17592.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925032"
+    }
+  },
+  {
+    "id": "1685824925033",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "140794",
+      "dataPregao": "2023-02-21",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "CYRE3",
+      "quantidade": "400",
+      "preco": "23.33",
+      "corretagem": "3.79",
+      "outrosCustos": "2.92",
+      "valorTotal": "9332.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925033"
+    }
+  },
+  {
+    "id": "1685824925034",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "140794",
+      "dataPregao": "2023-02-21",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "VALE3",
+      "quantidade": "300",
+      "preco": "59.56",
+      "corretagem": "3.79",
+      "outrosCustos": "5.59",
+      "valorTotal": "17868.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925034"
+    }
+  },
+  {
+    "id": "1685824925035",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "140794",
+      "dataPregao": "2023-02-21",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "YDUQ3",
+      "quantidade": "500",
+      "preco": "27.49",
+      "corretagem": "7.58",
+      "outrosCustos": "4.30",
+      "valorTotal": "13745.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925035"
+    }
+  },
+  {
+    "id": "1685824925036",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "141900",
+      "dataPregao": "2023-02-25",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "B3SA3",
+      "quantidade": "300",
+      "preco": "57.18",
+      "corretagem": "7.31",
+      "outrosCustos": "4.89",
+      "valorTotal": "17153.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925036"
+    }
+  },
+  {
+    "id": "1685824925037",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "141900",
+      "dataPregao": "2023-02-25",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "EMBR3",
+      "quantidade": "1100",
+      "preco": "7.30",
+      "corretagem": "7.31",
+      "outrosCustos": "27.19",
+      "valorTotal": "8034.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925037"
+    }
+  },
+  {
+    "id": "1685824925038",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "141900",
+      "dataPregao": "2023-02-25",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "HGTX3",
+      "quantidade": "500",
+      "preco": "19.40",
+      "corretagem": "3.65",
+      "outrosCustos": "16.75",
+      "valorTotal": "9700.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925038"
+    }
+  },
+  {
+    "id": "1685824925039",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "141900",
+      "dataPregao": "2023-02-25",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BRML3",
+      "quantidade": "1100",
+      "preco": "9.44",
+      "corretagem": "7.31",
+      "outrosCustos": "2.96",
+      "valorTotal": "10388.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925039"
+    }
+  },
+  {
+    "id": "1685824925040",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "141900",
+      "dataPregao": "2023-02-25",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "QUAL3",
+      "quantidade": "500",
+      "preco": "34.29",
+      "corretagem": "3.65",
+      "outrosCustos": "4.89",
+      "valorTotal": "17145.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925040"
+    }
+  },
+  {
+    "id": "1685824925041",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "141900",
+      "dataPregao": "2023-02-25",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "TIMP3",
+      "quantidade": "1400",
+      "preco": "14.98",
+      "corretagem": "7.31",
+      "outrosCustos": "5.98",
+      "valorTotal": "20968.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925041"
+    }
+  },
+  {
+    "id": "1685824925042",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "142985",
+      "dataPregao": "2023-02-26",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "CMIG4",
+      "quantidade": "1400",
+      "preco": "11.11",
+      "corretagem": "4.45",
+      "outrosCustos": "4.87",
+      "valorTotal": "15554.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925042"
+    }
+  },
+  {
+    "id": "1685824925043",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "142985",
+      "dataPregao": "2023-02-26",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "TIMP3",
+      "quantidade": "1400",
+      "preco": "15.31",
+      "corretagem": "4.45",
+      "outrosCustos": "17.29",
+      "valorTotal": "21434.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925043"
+    }
+  },
+  {
+    "id": "1685824925044",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "142985",
+      "dataPregao": "2023-02-26",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "B3SA3",
+      "quantidade": "300",
+      "preco": "57.55",
+      "corretagem": "4.45",
+      "outrosCustos": "5.40",
+      "valorTotal": "17265.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925044"
+    }
+  },
+  {
+    "id": "1685824925045",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "142985",
+      "dataPregao": "2023-02-26",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "FLRY3",
+      "quantidade": "800",
+      "preco": "28.59",
+      "corretagem": "13.35",
+      "outrosCustos": "7.16",
+      "valorTotal": "22868.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925045"
+    }
+  },
+  {
+    "id": "1685824925046",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "144070",
+      "dataPregao": "2023-02-27",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "B3SA3",
+      "quantidade": "300",
+      "preco": "57.79",
+      "corretagem": "3.43",
+      "outrosCustos": "4.93",
+      "valorTotal": "17337.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925046"
+    }
+  },
+  {
+    "id": "1685824925047",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "144070",
+      "dataPregao": "2023-02-27",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BBAS3",
+      "quantidade": "500",
+      "preco": "33.24",
+      "corretagem": "6.86",
+      "outrosCustos": "4.73",
+      "valorTotal": "16618.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925047"
+    }
+  },
+  {
+    "id": "1685824925048",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "144070",
+      "dataPregao": "2023-02-27",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "FLRY3",
+      "quantidade": "800",
+      "preco": "28.73",
+      "corretagem": "10.29",
+      "outrosCustos": "6.54",
+      "valorTotal": "22980.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925048"
+    }
+  },
+  {
+    "id": "1685824925049",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "144070",
+      "dataPregao": "2023-02-27",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "CMIG4",
+      "quantidade": "1400",
+      "preco": "11.44",
+      "corretagem": "10.29",
+      "outrosCustos": "4.56",
+      "valorTotal": "16014.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925049"
+    }
+  },
+  {
+    "id": "1685824925050",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "144070",
+      "dataPregao": "2023-02-27",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "TIMP3",
+      "quantidade": "1500",
+      "preco": "15.14",
+      "corretagem": "3.43",
+      "outrosCustos": "6.46",
+      "valorTotal": "22710.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925050"
+    }
+  },
+  {
+    "id": "1685824925051",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "145451",
+      "dataPregao": "2023-02-28",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "MRVE3",
+      "quantidade": "800",
+      "preco": "17.47",
+      "corretagem": "5.45",
+      "outrosCustos": "4.22",
+      "valorTotal": "13972.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925051"
+    }
+  },
+  {
+    "id": "1685824925052",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "145451",
+      "dataPregao": "2023-02-28",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "TIMP3",
+      "quantidade": "1500",
+      "preco": "14.63",
+      "corretagem": "8.18",
+      "outrosCustos": "57.17",
+      "valorTotal": "21950.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925052"
+    }
+  },
+  {
+    "id": "1685824925053",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "145451",
+      "dataPregao": "2023-02-28",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "B3SA3",
+      "quantidade": "300",
+      "preco": "56.43",
+      "corretagem": "8.18",
+      "outrosCustos": "5.11",
+      "valorTotal": "16929.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925053"
+    }
+  },
+  {
+    "id": "1685824925054",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "146644",
+      "dataPregao": "2023-03-03",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BPAC11",
+      "quantidade": "300",
+      "preco": "79.55",
+      "corretagem": "10.55",
+      "outrosCustos": "16.92",
+      "valorTotal": "23866.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925054"
+    }
+  },
+  {
+    "id": "1685824925055",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "146644",
+      "dataPregao": "2023-03-03",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BBAS3",
+      "quantidade": "500",
+      "preco": "31.91",
+      "corretagem": "5.28",
+      "outrosCustos": "4.13",
+      "valorTotal": "15955.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925055"
+    }
+  },
+  {
+    "id": "1685824925056",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "147801",
+      "dataPregao": "2023-03-04",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "CYRE3",
+      "quantidade": "1000",
+      "preco": "24.37",
+      "corretagem": "22.01",
+      "outrosCustos": "6.46",
+      "valorTotal": "24369.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925056"
+    }
+  },
+  {
+    "id": "1685824925057",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "149108",
+      "dataPregao": "2023-03-05",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "CYRE3",
+      "quantidade": "1000",
+      "preco": "24.36",
+      "corretagem": "6.33",
+      "outrosCustos": "18.54",
+      "valorTotal": "24360.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925057"
+    }
+  },
+  {
+    "id": "1685824925058",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "149108",
+      "dataPregao": "2023-03-05",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "QUAL3",
+      "quantidade": "500",
+      "preco": "33.00",
+      "corretagem": "12.65",
+      "outrosCustos": "18.83",
+      "valorTotal": "16502.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925058"
+    }
+  },
+  {
+    "id": "1685824925059",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "150459",
+      "dataPregao": "2023-03-06",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "GGBR4",
+      "quantidade": "1000",
+      "preco": "21.65",
+      "corretagem": "9.79",
+      "outrosCustos": "5.77",
+      "valorTotal": "21648.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925059"
+    }
+  },
+  {
+    "id": "1685824925060",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "157504",
+      "dataPregao": "2023-03-14",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "RENT3",
+      "quantidade": "400",
+      "preco": "57.27",
+      "corretagem": "4.86",
+      "outrosCustos": "7.17",
+      "valorTotal": "22907.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925060"
+    }
+  },
+  {
+    "id": "1685824925061",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "158492",
+      "dataPregao": "2023-03-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BEEF3",
+      "quantidade": "1000",
+      "preco": "11.49",
+      "corretagem": "5.28",
+      "outrosCustos": "3.32",
+      "valorTotal": "11490.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925061"
+    }
+  },
+  {
+    "id": "1685824925062",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "158492",
+      "dataPregao": "2023-03-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "GGBR4",
+      "quantidade": "1000",
+      "preco": "20.87",
+      "corretagem": "5.28",
+      "outrosCustos": "20.65",
+      "valorTotal": "20870.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925062"
+    }
+  },
+  {
+    "id": "1685824925063",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "158492",
+      "dataPregao": "2023-03-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "HGTX3",
+      "quantidade": "600",
+      "preco": "16.90",
+      "corretagem": "2.64",
+      "outrosCustos": "2.93",
+      "valorTotal": "10140.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925063"
+    }
+  },
+  {
+    "id": "1685824925064",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "158492",
+      "dataPregao": "2023-03-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "CYRE3",
+      "quantidade": "1000",
+      "preco": "23.47",
+      "corretagem": "10.55",
+      "outrosCustos": "6.78",
+      "valorTotal": "23468.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925064"
+    }
+  },
+  {
+    "id": "1685824925065",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "158492",
+      "dataPregao": "2023-03-17",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "SANB11",
+      "quantidade": "700",
+      "preco": "28.68",
+      "corretagem": "7.91",
+      "outrosCustos": "5.80",
+      "valorTotal": "20079.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925065"
+    }
+  },
+  {
+    "id": "1685824925066",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "159544",
+      "dataPregao": "2023-03-18",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "CYRE3",
+      "quantidade": "1000",
+      "preco": "22.48",
+      "corretagem": "7.31",
+      "outrosCustos": "17.29",
+      "valorTotal": "22475.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925066"
+    }
+  },
+  {
+    "id": "1685824925067",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "159544",
+      "dataPregao": "2023-03-18",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "SANB11",
+      "quantidade": "700",
+      "preco": "27.86",
+      "corretagem": "8.53",
+      "outrosCustos": "16.28",
+      "valorTotal": "19505.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925067"
+    }
+  },
+  {
+    "id": "1685824925068",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "159544",
+      "dataPregao": "2023-03-18",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BBDC4",
+      "quantidade": "900",
+      "preco": "19.41",
+      "corretagem": "6.09",
+      "outrosCustos": "5.07",
+      "valorTotal": "17469.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925068"
+    }
+  },
+  {
+    "id": "1685824925069",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "159544",
+      "dataPregao": "2023-03-18",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "MRVE3",
+      "quantidade": "800",
+      "preco": "15.82",
+      "corretagem": "4.88",
+      "outrosCustos": "3.67",
+      "valorTotal": "12654.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925069"
+    }
+  },
+  {
+    "id": "1685824925070",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "160627",
+      "dataPregao": "2023-03-19",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BEEF3",
+      "quantidade": "1000",
+      "preco": "11.67",
+      "corretagem": "5.43",
+      "outrosCustos": "3.66",
+      "valorTotal": "11670.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925070"
+    }
+  },
+  {
+    "id": "1685824925071",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "161638",
+      "dataPregao": "2023-03-20",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "AZUL4",
+      "quantidade": "500",
+      "preco": "25.15",
+      "corretagem": "1.06",
+      "outrosCustos": "3.42",
+      "valorTotal": "12575.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925071"
+    }
+  },
+  {
+    "id": "1685824925072",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "161638",
+      "dataPregao": "2023-03-20",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BBDC4",
+      "quantidade": "900",
+      "preco": "19.30",
+      "corretagem": "6.37",
+      "outrosCustos": "15.68",
+      "valorTotal": "17373.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925072"
+    }
+  },
+  {
+    "id": "1685824925073",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "161638",
+      "dataPregao": "2023-03-20",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "AZUL4",
+      "quantidade": "500",
+      "preco": "25.62",
+      "corretagem": "1.06",
+      "outrosCustos": "3.48",
+      "valorTotal": "12810.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925073"
+    }
+  },
+  {
+    "id": "1685824925074",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "161638",
+      "dataPregao": "2023-03-20",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "HGTX3",
+      "quantidade": "600",
+      "preco": "17.25",
+      "corretagem": "1.06",
+      "outrosCustos": "2.81",
+      "valorTotal": "10350.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925074"
+    }
+  },
+  {
+    "id": "1685824925075",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "162680",
+      "dataPregao": "2023-03-21",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BBDC4",
+      "quantidade": "900",
+      "preco": "19.78",
+      "corretagem": "6.64",
+      "outrosCustos": "4.55",
+      "valorTotal": "17802.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925075"
+    }
+  },
+  {
+    "id": "1685824925076",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "163719",
+      "dataPregao": "2023-03-24",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BBDC4",
+      "quantidade": "900",
+      "preco": "19.67",
+      "corretagem": "4.93",
+      "outrosCustos": "16.03",
+      "valorTotal": "17700.00",
+      "acao": "",
+      "uniqueEmpId": "1685824925076"
+    }
+  },
+  {
+    "id": "1685825000324",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "165960",
+      "dataPregao": "2023-03-26",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "CMIG4",
+      "quantidade": "1700",
+      "preco": "10.47",
+      "corretagem": "6.82",
+      "outrosCustos": "5.59",
+      "valorTotal": "17799.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000324"
+    }
+  },
+  {
+    "id": "1685825000325",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "165960",
+      "dataPregao": "2023-03-26",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "GOAU4",
+      "quantidade": "2200",
+      "preco": "10.15",
+      "corretagem": "3.41",
+      "outrosCustos": "7.01",
+      "valorTotal": "22330.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000325"
+    }
+  },
+  {
+    "id": "1685825000326",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "167053",
+      "dataPregao": "2023-03-27",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "CIEL3",
+      "quantidade": "4000",
+      "preco": "3.79",
+      "corretagem": "12.05",
+      "outrosCustos": "4.76",
+      "valorTotal": "15160.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000326"
+    }
+  },
+  {
+    "id": "1685825000327",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "167053",
+      "dataPregao": "2023-03-27",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "CMIG4",
+      "quantidade": "1700",
+      "preco": "10.58",
+      "corretagem": "9.04",
+      "outrosCustos": "16.19",
+      "valorTotal": "17986.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000327"
+    }
+  },
+  {
+    "id": "1685825000328",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "167053",
+      "dataPregao": "2023-03-27",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "ELET3",
+      "quantidade": "700",
+      "preco": "30.76",
+      "corretagem": "6.03",
+      "outrosCustos": "6.76",
+      "valorTotal": "21534.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000328"
+    }
+  },
+  {
+    "id": "1685825000329",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "167053",
+      "dataPregao": "2023-03-27",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "GOAU4",
+      "quantidade": "2200",
+      "preco": "9.99",
+      "corretagem": "1.51",
+      "outrosCustos": "17.68",
+      "valorTotal": "21978.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000329"
+    }
+  },
+  {
+    "id": "1685825000330",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "167053",
+      "dataPregao": "2023-03-27",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "WEGE3",
+      "quantidade": "300",
+      "preco": "74.70",
+      "corretagem": "4.52",
+      "outrosCustos": "7.03",
+      "valorTotal": "22411.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000330"
+    }
+  },
+  {
+    "id": "1685825000331",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "169506",
+      "dataPregao": "2023-04-01",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "USIM5",
+      "quantidade": "2100",
+      "preco": "10.13",
+      "corretagem": "9.03",
+      "outrosCustos": "6.68",
+      "valorTotal": "21273.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000331"
+    }
+  },
+  {
+    "id": "1685825000332",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "169506",
+      "dataPregao": "2023-04-01",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "LREN3",
+      "quantidade": "500",
+      "preco": "39.99",
+      "corretagem": "6.02",
+      "outrosCustos": "6.28",
+      "valorTotal": "19997.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000332"
+    }
+  },
+  {
+    "id": "1685825000333",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "170898",
+      "dataPregao": "2023-04-02",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "ELET3",
+      "quantidade": "700",
+      "preco": "31.65",
+      "corretagem": "7.68",
+      "outrosCustos": "6.96",
+      "valorTotal": "22155.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000333"
+    }
+  },
+  {
+    "id": "1685825000334",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "172327",
+      "dataPregao": "2023-04-03",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "RENT3",
+      "quantidade": "400",
+      "preco": "60.45",
+      "corretagem": "5.39",
+      "outrosCustos": "55.24",
+      "valorTotal": "24181.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000334"
+    }
+  },
+  {
+    "id": "1685825000335",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "172327",
+      "dataPregao": "2023-04-03",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "CIEL3",
+      "quantidade": "4000",
+      "preco": "3.64",
+      "corretagem": "9.43",
+      "outrosCustos": "4.57",
+      "valorTotal": "14560.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000335"
+    }
+  },
+  {
+    "id": "1685825000336",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "175194",
+      "dataPregao": "2023-04-07",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "NTCO3",
+      "quantidade": "300",
+      "preco": "48.02",
+      "corretagem": "5.12",
+      "outrosCustos": "20.76",
+      "valorTotal": "14406.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000336"
+    }
+  },
+  {
+    "id": "1685825000337",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "175194",
+      "dataPregao": "2023-04-07",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "WEGE3",
+      "quantidade": "300",
+      "preco": "81.71",
+      "corretagem": "5.12",
+      "outrosCustos": "21.52",
+      "valorTotal": "24513.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000337"
+    }
+  },
+  {
+    "id": "1685825000338",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "175194",
+      "dataPregao": "2023-04-07",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "CPFE3",
+      "quantidade": "600",
+      "preco": "28.19",
+      "corretagem": "6.82",
+      "outrosCustos": "5.31",
+      "valorTotal": "16914.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000338"
+    }
+  },
+  {
+    "id": "1685825000339",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "180342",
+      "dataPregao": "2023-04-11",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "EQTL3",
+      "quantidade": "800",
+      "preco": "20.88",
+      "corretagem": "6.86",
+      "outrosCustos": "5.25",
+      "valorTotal": "16704.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000339"
+    }
+  },
+  {
+    "id": "1685825000340",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "180342",
+      "dataPregao": "2023-04-11",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "BBSE3",
+      "quantidade": "800",
+      "preco": "25.56",
+      "corretagem": "6.86",
+      "outrosCustos": "6.42",
+      "valorTotal": "20448.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000340"
+    }
+  },
+  {
+    "id": "1685825000341",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "184387",
+      "dataPregao": "2023-04-16",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "BBSE3",
+      "quantidade": "800",
+      "preco": "24.50",
+      "corretagem": "7.36",
+      "outrosCustos": "6.15",
+      "valorTotal": "19599.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000341"
+    }
+  },
+  {
+    "id": "1685825000342",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "184387",
+      "dataPregao": "2023-04-16",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "EQTL3",
+      "quantidade": "800",
+      "preco": "20.13",
+      "corretagem": "5.88",
+      "outrosCustos": "5.06",
+      "valorTotal": "16105.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000342"
+    }
+  },
+  {
+    "id": "1685825000343",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "188279",
+      "dataPregao": "2023-04-22",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "PETR4",
+      "quantidade": "600",
+      "preco": "19.65",
+      "corretagem": "3.21",
+      "outrosCustos": "21.69",
+      "valorTotal": "11790.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000343"
+    }
+  },
+  {
+    "id": "1685825000344",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "202994",
+      "dataPregao": "2023-05-06",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "FLRY3",
+      "quantidade": "900",
+      "preco": "26.96",
+      "corretagem": "11.45",
+      "outrosCustos": "7.63",
+      "valorTotal": "24268.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000344"
+    }
+  },
+  {
+    "id": "1685825000345",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "202994",
+      "dataPregao": "2023-05-06",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "IGTA3",
+      "quantidade": "500",
+      "preco": "35.29",
+      "corretagem": "3.82",
+      "outrosCustos": "15.85",
+      "valorTotal": "17645.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000345"
+    }
+  },
+  {
+    "id": "1685825000346",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "204378",
+      "dataPregao": "2023-05-07",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "EQTL3",
+      "quantidade": "1000",
+      "preco": "20.96",
+      "corretagem": "4.30",
+      "outrosCustos": "6.59",
+      "valorTotal": "20960.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000346"
+    }
+  },
+  {
+    "id": "1685825000347",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "204378",
+      "dataPregao": "2023-05-07",
+      "tipoAtivo": "Ação",
+      "operacao": "Compra",
+      "ativo": "IGTA3",
+      "quantidade": "500",
+      "preco": "35.08",
+      "corretagem": "12.90",
+      "outrosCustos": "5.51",
+      "valorTotal": "17540.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000347"
+    }
+  },
+  {
+    "id": "1685825000348",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "204378",
+      "dataPregao": "2023-05-07",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "FLRY3",
+      "quantidade": "900",
+      "preco": "27.13",
+      "corretagem": "8.60",
+      "outrosCustos": "7.67",
+      "valorTotal": "24414.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000348"
+    }
+  },
+  {
+    "id": "1685825000349",
+    "data": {
+      "corretora": "ORAMA",
+      "notaCorretagem": "205586",
+      "dataPregao": "2023-05-08",
+      "tipoAtivo": "Ação",
+      "operacao": "Venda",
+      "ativo": "EQTL3",
+      "quantidade": "1000",
+      "preco": "21.00",
+      "corretagem": "9.61",
+      "outrosCustos": "5.42",
+      "valorTotal": "21000.00",
+      "acao": "",
+      "uniqueEmpId": "1685825000349"
+    }
+  }
+]

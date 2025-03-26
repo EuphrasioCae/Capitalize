@@ -1,0 +1,47 @@
+/* ---------------------------------------------------
+    Table
+----------------------------------------------------- */
+
+/* table tr:nth-child(odd) td{
+    background-color:lightcyan;
+}
+table tr:nth-child(even) td{
+    background-color: white;
+} */
+
+
+.table thead, tfoot{
+    font-size: 0.75rem ;
+}
+
+.table tbody{
+    font-size: 0.65rem;
+}
+
+#file-input {
+    font-size: 0.8rem;
+}
+
+.dataTables_info, 
+.paginate_button,
+.dataTables_length,
+.dataTables_filter {
+    font-size: 0.8rem;
+}
+
+td.select-checkbox:after {
+    font-size: 1rem !important;
+
+}
+
+.modal-content {
+    width: 640px;
+}
+
+.up {
+    background-color: lightgreen;
+}
+
+.down {
+    background-color: lightcoral;
+}
